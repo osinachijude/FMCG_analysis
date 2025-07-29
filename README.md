@@ -20,4 +20,4 @@ A data analysis project simulating real-world sales data from a Fast-Moving Cons
 - TXT: Insights summary
 - README.md: Project overview
 
-Made with ❤️ for data-driven decision-making.
+Jude Adeyemo @osinachijude
